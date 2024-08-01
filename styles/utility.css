@@ -1,0 +1,20 @@
+/* utility first */
+
+/* define padrao grid */
+.grid {
+  display: grid;
+}
+
+/* ajusta grid automatico */
+.grid-flow-col {
+  grid-auto-flow: column;
+}
+
+/* define grid de 2 colunas */
+.grid-cols-2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.gap-16 {
+  gap: 16px;
+}
