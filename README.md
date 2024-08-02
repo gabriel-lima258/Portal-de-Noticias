@@ -6,3 +6,9 @@
 <img alt="foodexplorer" title="#foodexplorer" src="https://github.com/user-attachments/assets/bae09b1b-8e8c-4359-9e8e-91775e7b7725"  width="100%">
 </p>
 
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
